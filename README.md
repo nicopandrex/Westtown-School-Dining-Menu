@@ -1,5 +1,5 @@
 # 📋 Overview
-This project contains the source code for Westtown School's dining menu website, developed in 2023. The website is accessible only within the school's WiFi-Secure network.​
+This project contains the source code for Westtown School's dining menu website, developed in 2023. The website is accessible only within the school's WiFi-Secure network.​ Worked on in collaboration with @russelljoa and other class members
 
 # 🌐 Access
 The live site is hosted at: dining.westtown.edu​
